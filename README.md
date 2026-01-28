@@ -32,3 +32,13 @@ D. Catatan Asumsi/Desain
 2. Autentikasi: Menggunakan Larave Sanctum
 3. Validasi: Password minimal 8 karakter
 
+PERTANYAAN WAJIB 
+1. Bagian tersulit apa dari assignment ini?
+  pada bagian setting Laravel Sanctum untuk proses login dan register.
+(+) menghubungkan antara backend dan frontend
+  
+2. Jika diberi waktu 1 minggu, apa yang akan kamu perbaiki?
+   Saya ingin memperbaiki tampilan error. karena tampilannya sedikit kaku dan saya ingin menambahkan fitur upload & menghapus daftar kegiatan yang sudah selesai
+
+3. Kenapa memilih pendekatan teknis tersebut?
+   Pada tugas kali ini saya ingin belajar lebih dari backend developer. alasannya saya menambahkan frontend adalah agar implementasi CRUD (alur endpoint) menjadi lebih mudah. sedikit terasa lebih sulit tetapi saya berniat untuk belajar lebih dan lebih baik. dan pada tugas ini saya kembali belajar untuk menggunakan Sanctum. Karena saya ingin menambah wawasan 
